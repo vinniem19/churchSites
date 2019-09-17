@@ -1,0 +1,77 @@
+/* Home */
+body {
+    background-image: url(../images/catholic-background.jpg);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 190px 100px;
+    background-attachment: fixed;
+}
+
+header {
+    /*background-image:url(../images/St-matt-logo.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    */
+    font-size: 10px;
+    color: white;
+    position: fixed;
+    top: 0;
+    margin-left: 190px;
+    width: 1405px;
+    height: 150px;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+nav {
+width: 100%;
+position: absolute;
+top: 110px;
+}
+
+#church-logo {
+width: 100%;
+height: 175px;  
+}
+
+
+.main-content {
+    color: white;
+    margin-left: 190px;
+    margin-right: 300px;
+    padding-left: 10px;
+    padding-top: 150px;
+}
+
+.nav-wrapper {
+    padding-left: 5px;
+    height: 70px;
+    background-color: navy;
+}
+
+#stmattlogo {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 110px;
+    
+}
+/* About */
+.sidenav {
+    width: 190px;
+    background-color: grey;
+}
+
+/*.address {
+    margin-top: 100px;
+}
+*/
+/* Groups */
+
+/* Ministries */
+
+/* Sacraments */
