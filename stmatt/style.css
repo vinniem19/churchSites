@@ -38,6 +38,10 @@ width: 100%;
 height: 175px;  
 }
 
+.home-pg-paras {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 21px;
+}
 
 .main-content {
     color: white;
